@@ -5,5 +5,4 @@ print("Running query:", query)
 # vulnerable_script.py
 
 	year = eval(sys.argv[1])
-
 print(f"The result is: {result}")
